@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.8.6",
+    "dotenv": "^16.4.5"
+  }
+}
